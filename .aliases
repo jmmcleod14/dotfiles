@@ -45,7 +45,7 @@ alias please=sudo
 
 # handy things
 alias bunyip='node ~/code/bunyip/cli.js'
-alias spotify="osascript ~/code/SpotifyControl/SpotifyControl.scpt"
+#alias spotify="osascript ~/code/SpotifyControl/SpotifyControl.scpt"
 
 
 # Detect which `ls` flavor is in use
